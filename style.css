@@ -1,0 +1,32 @@
+body {
+    
+    
+    text-align:center;
+}
+.mynavbar{
+    z-index:999;
+    top: 0;
+    position: sticky;
+}
+.link {
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-right:15px
+}
+.link {
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-right:15px
+}
+.line {
+    height: 6px;
+    background-color: #ab12ce;
+    width: 100px;
+    margin: 8px auto;
+}

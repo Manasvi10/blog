@@ -1,32 +1,51 @@
 body {
-    
-    
-    text-align:center;
+
+
+    text-align: center;
 }
-.mynavbar{
-    z-index:999;
+
+.mynavbar {
+    z-index: 999;
     top: 0;
     position: sticky;
 }
+
 .link {
     float: left;
     padding-bottom: 10px;
     padding-left: 15px;
     cursor: pointer;
     padding-top: 10px;
-    padding-right:15px
+    padding-right: 15px
 }
+
 .link {
     float: left;
     padding-bottom: 10px;
     padding-left: 15px;
     cursor: pointer;
     padding-top: 10px;
-    padding-right:15px
+    padding-right: 15px
 }
+
 .line {
     height: 6px;
     background-color: #ab12ce;
     width: 100px;
     margin: 8px auto;
+}
+
+marquee {
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    background: #7FFFD4;
+    color: #333;
+    font-size: 20px;
+
+}
+
+.map iframe {
+    height:500px;
+    width: 100%;
 }
